@@ -1,0 +1,19 @@
+{
+  "name": "pew-pew-common",
+  "version": "1.0.0",
+  "description": "Common files for Pew Pew",
+  "main": "message-types.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artdehoyos/pew-pew-common.git"
+  },
+  "author": "Art deHoyos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artdehoyos/pew-pew-common/issues"
+  },
+  "homepage": "https://github.com/artdehoyos/pew-pew-common#readme"
+}
